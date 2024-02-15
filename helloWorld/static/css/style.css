@@ -6,11 +6,17 @@ body{
     font-family: sans-serif;
     color: #777777;
     line-height: 26px;
+    background-color: rgb(245, 236, 226);
 }
 
 .content{
     width: 50%;
     float: left;
+}
+
+.goals{
+    width: 50%;
+    float: right;
 }
 
 .btn{
@@ -28,7 +34,8 @@ body{
     display: inline-block;
 }
 
-.img{
-    height: 1px;
-    width: 11px;
+.about{
+    padding: 10px;
+    border-left: 1px solid rgba(137, 130, 247, .2);
+    border-color: #8845f4;
 }
