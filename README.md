@@ -2,9 +2,18 @@
 
 # This is a simple static html page.
 
-To install the virtual environment
+INSTRUCTIONS
+    -> Navigate to your root directory
+    -> To run server, navigate to helloWorld module/folder
 
-To activate the virtual environment
+1.Install virtual environment
+    -> Windows : pip install virtualenvwrapper-win
+    -> Mac OS : pip3 install virtualenvwrapper-win
 
-To run the program
+2.Activate virtual environment
+    -> workon hello-world
+
+3.Run Server
+    -> Windows : python manage.py runserver
+    -> Mac OS : python3 manage.py runserver
 
